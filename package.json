@@ -1,15 +1,15 @@
 {
-  "name": "mongoskin",
-  "description": "The future layer above node-mongodb-native",
-  "version": "1.3.20",
-  "author": "Gui Lin <guileen@gmail.com>",
-  "homepage": "https://github.com/kissjs/node-mongoskin",
+  "name": "hemidrosis",
+  "description": "The blood sweat of mongoskin",
+  "version": "1.4.0",
+  "author": "Dhi Aurrahman <diorahman@rockybars.com>",
+  "homepage": "https://github.com/diorahman/hemidrosis",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kissjs/node-mongoskin.git"
+    "url": "git://github.com/diorahman/hemidrosis.git"
   },
   "bugs": {
-    "url": "https://github.com/kissjs/node-mongoskin/issues"
+    "url": "https://github.com/diorahman/hemidrosis/issues"
   },
   "main": "./index.js",
   "keywords": [
@@ -18,10 +18,10 @@
     "nosql"
   ],
   "engines": {
-    "node": ">= 0.4.0"
+    "node": ">= 0.10.0"
   },
   "dependencies": {
-    "mongodb": "1.3.20"
+    "mongodb": "1.4.0"
   },
   "devDependencies": {
     "mocha": "~1.17.1",
